@@ -1,10 +1,6 @@
-   #Assalamu-Alaikum 
- 
-[*]  (SMB) server message Block is transport protocol and it is widely used for 
-     variety purpose such as file sharing ,printer sharing ,and access to remote
-	 Windows services.SMB operates over TCP ports 139 and 445.in April 2017 shadow
-	 brokers hackers released an SMB vulnerability nameed "EternalBlue";
-	 
+# Assalamu-Alaikum
+
+Pesan server [*] (SMB) Block adalah protokol transport dan digunakan secara luas untuk berbagai tujuan seperti berbagi file, berbagi printer, dan akses ke layanan Windows jarak jauh. SMB beroperasi melalui port TCP 139 dan 445.pada April 2017 peretas broker bayangan merilis kerentanan SMB bernama "EternalBlue";
 	 [*] port scanning is not crime, but after the port scanning and knowing
 	 the versions of services and exploit it is illigal as you can say its a crime.
 	 so always stay legal.this tool scans the ports of sites and provides you to
